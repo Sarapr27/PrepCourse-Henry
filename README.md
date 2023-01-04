@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio del Modulo2 del PrepCourse
+Sara Pinzón
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde GitHub a mi escritorio
